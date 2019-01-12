@@ -17,10 +17,9 @@ Crear conexiones entre la Interfaz (View) y el Código:
  Lo que queremos es modificar aspectos y comportamientos de los elementos de la Interfaz. Para ello necesitamos crear conexiones entre la interfaz y el código
  Selecciono el elemento pulso la tecla CTRL y arrastra desde la interfaz builder  hasta el la clase (codigo) ver. C:\wamp\www\Capacitacion\IoSApps\FirstAppWift.png 
 
-BOLSA DE TRABAJO 2019-01-12
+BOLSA DE TRABAJO 2019
 ==========================
  WORKEW
- --------------------
  Usuario Login:   eperez10043@hotmail.com
  Pwd:		t2710486
 		Otro pwd:t2710486+
