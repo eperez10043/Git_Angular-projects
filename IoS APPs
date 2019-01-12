@@ -1,0 +1,23 @@
+IoS APPs
+==================
+IOs Sistema operacional de los dispositivos móviles Apple.
+IOS 9   para IPhone, IphonPad, IPad
+http://developer.apple.com
+
+IDE: Xcode 
+SDK: Software develoment kit de java viene incluido en XCODE (descarga del AppStore en el MAC)
+Lenguaje de programacion: C  y Java utilizando los frameworks Objective-C o SWIFT
+
+Abrir XCODE, crear un nuevo proyecto:firstApp  (use core data)
+Agregar elementos al MainStoryBoard y aplicar constrais para look an fill como AUTO-LAYOUT de tal modo que funcionen en todos los dispositivos
+
+Crear conexiones entre la Interfaz (View) y el Código:
+ Con la vista del asistente, habilitar la vista de codigo frente a la Interfaz.
+ 
+ Lo que queremos es modificar aspectos y comportamientos de los elementos de la Interfaz. Para ello necesitamos crear conexiones entre la interfaz y el código
+ Selecciono el elemento pulso la tecla CTRL y arrastra desde la interfaz builder  hasta el la clase (codigo) ver. C:\wamp\www\Capacitacion\IoSApps\FirstAppWift.png 
+
+ WORKEW
+ Usuario Login:   eperez10043@hotmail.com
+ Pwd:		t2710486
+		Otro pwd:t2710486+
