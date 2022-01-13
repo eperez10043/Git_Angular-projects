@@ -1,15 +1,14 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-//import { ContadorComponent } from './contador/contador/contador.component';
-//import { HeroeComponent } from './heroes/heroe/heroe.component';
-//import { ListadoComponent } from './heroes/listado/listado.component';
+
+// Tarea crear un nuevo módulo llamdo contador.module.ts
 
 import { HeroesModule } from './heroes/heroes.module';
 import { ContadorMoude } from './contador/contador.module';
-
-
+import { ContadorComponent } from './contador/contador/contador.component';
+import { HeroeComponent } from './heroes/heroe/heroe.component';
 
 
 
@@ -17,17 +16,12 @@ import { ContadorMoude } from './contador/contador.module';
   declarations: [
     AppComponent,
     
-
-
-    
     
  
 
   ],
   imports: [
     BrowserModule,
-    HeroesModule,
-    ContadorMoude
 
 
   ],
@@ -35,4 +29,3 @@ import { ContadorMoude } from './contador/contador.module';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-
